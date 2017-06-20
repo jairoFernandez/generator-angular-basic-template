@@ -1,6 +1,6 @@
 {
   "name": "generator-angular-basic-template",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Demo de generador",
   "homepage": "http://codefull.xyz",
   "author": {
@@ -45,6 +45,6 @@
       "node": true
     }
   },
-  "repository": "jairofg12/generator-angular-basic-template",
+  "repository": "jairoFg12/generator-angular-basic-template",
   "license": "MIT"
 }
