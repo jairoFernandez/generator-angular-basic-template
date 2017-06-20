@@ -1,7 +1,7 @@
 {
   "name": "generator-angular-basic-template",
-  "version": "0.0.3",
-  "description": "Demo de generador",
+  "version": "0.1.2",
+  "description": "Template with routing and modules",
   "homepage": "http://codefull.xyz",
   "author": {
     "name": "Jairo Fernandez",
