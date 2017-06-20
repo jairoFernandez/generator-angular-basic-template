@@ -1,0 +1,10 @@
+.example-fill-remaining-space {
+  // This fills the remaining space, by using flexbox. 
+  // Every toolbar row uses a flexbox row layout.
+  flex: 1 1 auto;
+}
+
+.contenedorPpal{
+  margin-top: 100px;
+  padding: 10px;
+}
